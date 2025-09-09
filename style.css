@@ -17,4 +17,7 @@ footer p {
     font: 0.6rem;
     margin-top: 0.5rem;
 }
-
+.cartao{
+    margin: 1rem;
+    background-color: blue;
+}
