@@ -23,7 +23,7 @@ footer p {
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
-.cartão_conteudo {
+.cartão_conteudo_pergunta {
     text-align: center;
     background-color: rgb(180, 139, 218);
     height: 100%;
