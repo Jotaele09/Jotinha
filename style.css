@@ -18,14 +18,14 @@ footer p {
     font: 0.6rem;
     margin-top: 0.5rem;
 }
-.cartão_conteudo_pergunta{
+.cartão{
     margin: 1rem 1rem;
     background-color: rgb(99, 92, 92);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
-.cartão_conteudo_resposta {
+.cartão_conteudo {
     text-align: center;
     background-color: rgb(125, 13, 230);
     height: 20%;
