@@ -39,9 +39,9 @@ footer p {
     text-align: left;
     padding: 0.5rem;
 }
-## Cores
 
-```css
+
+
 :root {
     --text-color: #DBE4EF;
     --card-front-color: #144480;
@@ -49,10 +49,3 @@ footer p {
 }
 ```
 
-> Para mais cores
-
-- https://colorhunt.co/
-- https://color.adobe.com/pt/create/color-wheel
-
-## Para fontes
-https://fonts.google.com/
