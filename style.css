@@ -1,5 +1,5 @@
 body {
-    background-color: url('img/bg-desktop.webp')
+    background-color: url('img/bg-desktop.webp');
     color:aliceblue;
     font-family: "Caprasimo", serif;
 font-size: larger;
@@ -48,7 +48,7 @@ footer p {
 
 
 :root {
-    --text-color: #DBE4EF;
+    --text-color: #be1d1d;
     --card-front-color: #144480;
     --card-back-color: #00F4BF;
 }
@@ -60,5 +60,4 @@ color: var(--text-color);
 .cartão_conteudo_pergunta p {
     .color: var(--card-back-color);
 }
-```
 
