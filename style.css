@@ -52,5 +52,13 @@ footer p {
     --card-front-color: #144480;
     --card-back-color: #00F4BF;
 }
+
+.cartão_conteudo_pergunta p{
+color: var(--text-color);
+
+}
+.cartão_conteudo_pergunta p {
+    .color: var(--card-back-color);
+}
 ```
 
