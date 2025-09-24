@@ -1,7 +1,7 @@
 body {
     background: url('img/bg-desktop.webp');
     font-family: "Oswald", sans-serif;
-    color: rgb(255, 255, 255);
+    color: rgb(235, 110, 110);
 }
 
 footer {
@@ -57,8 +57,8 @@ footer p {
 }
 
 :root {
-    --text-color: #ffffff;
-    --card-front-color: #2500f8;
+    --text-color: #000000;
+    --card-front-color: #7f00b9;
     --card-back-color: #00F4BF;
 }
 
