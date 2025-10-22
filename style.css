@@ -55,8 +55,8 @@ footer p {
 }
 :root {
     --text-color: #ffffff;
-    --card-front-color: #830016;
-    --card-back-color: #38000e;
+    --card-front-color: #630d9c;
+    --card-back-color: #ce0c3c;
 }
 
 .cartão_conteudo_pergunta p{
@@ -84,7 +84,7 @@ footer p {
 
 .cartão_conteudo_resposta{
     transform: rotateY(180deg);
-    background-color: #830016;
+    background-color: #86192b;
     border: 4px solid var(--card-back-color);
 }
 .cartão_conteudo p{
