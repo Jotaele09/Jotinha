@@ -26,7 +26,7 @@ footer p {
 }
 .cartão{
     margin: 1rem 1rem;
-    background-color: rgb(0, 0, 0)
+    background-color: rgb(0, 0, 0);
     height: 20rem;
     flex-grow: 1 0 calc(100% - 1rem);
     flex-basis: calc(33% - 6rem);
@@ -48,7 +48,7 @@ footer p {
     border-radius: 0.6rem;
     font-size: 3vw;
     backface-visibility: hidden;
-
+z-index: 1;
 }
 .cartao_conteudo_resposta{
     text-align: center;
@@ -80,6 +80,7 @@ footer p {
     height: 100%;
     width:  100%;
     box-sizing: border-box;
+    z-index: 2;
 }
 
 .cartão_conteudo_resposta{
